@@ -25,7 +25,7 @@ var x = 0;
 
 var titleText = ["|",
 					"★",
-					"★ ",
+					"★ H",
 					"★ HruskyWare.cc",
 					"★ HruskyWare.cc",
 					"★ HruskyWare.cc",
